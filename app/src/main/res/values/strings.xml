@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coin Roller</string>
+    <string name="roll">Roll</string>
+    <string name="sol_o_guila">¿Sol o Águila?</string>
+</resources>
